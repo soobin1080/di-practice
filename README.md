@@ -1,2 +1,2 @@
 - DI 프레임워크 만들기
-- 제네릭 개념 이하기 https://st-lab.tistory.com/153
+- 제네릭 개념 이해하기 https://st-lab.tistory.com/153
